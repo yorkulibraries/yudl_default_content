@@ -1,14 +1,42 @@
-uuid: ba7db984-160a-4cb0-b149-f0db82764a77
-entity_type: node
-bundle: page
-base_fields:
-  title: 'FRONT PAGE'
-  status: true
-  langcode: en
-  created: '1673450490'
-  author: null
-  url: null
-  revision_log_message: null
-  revision_uid: '1'
-custom_fields:
-  body: null
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 109fa257-18c7-4cc9-aec4-83cc7c0e6fba
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'FRONT PAGE'
+  created:
+    -
+      value: 1673464282
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
