@@ -1,0 +1,8 @@
+name: 'YUDL Default Content'
+type: module
+hidden: TRUE
+description: 'Provide default YUDL content'
+package: YUDL
+core_version_requirement: ^9
+dependencies:
+  - default_content:default_content

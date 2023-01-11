@@ -1,0 +1,14 @@
+uuid: ba7db984-160a-4cb0-b149-f0db82764a77
+entity_type: node
+bundle: page
+base_fields:
+  title: 'FRONT PAGE'
+  status: true
+  langcode: en
+  created: '1673450490'
+  author: null
+  url: null
+  revision_log_message: null
+  revision_uid: '1'
+custom_fields:
+  body: null
