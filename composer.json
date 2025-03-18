@@ -1,0 +1,10 @@
+{
+    "name": "yorkulibraries/yudl_default_content",
+    "description": "Provides default YUDL content",
+    "type": "drupal-theme",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://github.com/yorkulibraries/yudl_default_content",
+    "require": {
+      "drupal/default_content": "^2.0@alpha"
+    }
+}
